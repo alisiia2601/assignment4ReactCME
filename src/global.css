@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Digital+Counter+7:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Determination+Mono:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Didact+Gothic:wght@400&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-didact-gothic: "Didact Gothic";
+  --font-digital-counter-7: "Digital Counter 7";
+  --font-determination-mono: "Determination Mono";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-lg: 20px;
+  --font-size-xl: 30px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-limegreen: #0fcb22;
+  --color-firebrick: #bb0e0e;
+  --color-slateblue: #143da7;
+  --color-mediumslateblue: #0f52fd;
+  --color-gray: rgba(255, 255, 255, 0.7);
+
+  /* Gaps */
+  --gap-sm: 20px;
+  --gap-md: 60px;
+}

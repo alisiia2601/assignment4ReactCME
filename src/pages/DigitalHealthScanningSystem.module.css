@@ -1,0 +1,692 @@
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(106.39deg, #20a3ec, #26014c);
+  width: 1707px;
+  height: 1280px;
+}
+.shadow {
+  position: absolute;
+  top: 1058px;
+  left: 164px;
+  background-color: rgba(27, 7, 52, 0.8);
+  filter: blur(100px);
+  width: 1410px;
+  height: 137px;
+}
+.gridStructureIcon,
+.uiBackground {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+}
+.uiBackground {
+  background: radial-gradient(50% 50%at 50% 50%, #00284a, #15002b);
+  height: 1024px;
+}
+.gridStructureIcon {
+  height: 1058px;
+}
+.dIllustrationIcon {
+  position: absolute;
+  height: 94.17%;
+  width: 46.87%;
+  top: 10.06%;
+  right: 26.53%;
+  bottom: -4.23%;
+  left: 26.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.scanning1 {
+  position: absolute;
+  top: 0;
+  left: 7px;
+  line-height: 119.9%;
+}
+.scanningChild {
+  position: absolute;
+  top: 56px;
+  left: 0;
+  width: 214px;
+  height: 0;
+}
+.scanning {
+  top: 65px;
+  left: 613px;
+  width: 214px;
+  height: 56px;
+  font-size: 40px;
+  color: #28bdff;
+}
+.cta,
+.logoIcon,
+.scanning {
+  position: absolute;
+}
+.logoIcon {
+  top: 5px;
+  left: 30px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.cta {
+  width: 202px;
+  top: 934px;
+  left: 1208px;
+}
+.groupChild,
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 406px;
+  height: 326px;
+}
+.groupItem {
+  top: 50px;
+  left: 20px;
+  width: 366px;
+  height: 199px;
+}
+.div {
+  filter: blur(2px);
+}
+.bpm,
+.div,
+.div1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 130%;
+}
+.bpm {
+  top: 39px;
+  left: 3px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-determination-mono);
+}
+.parent {
+  position: relative;
+  width: 34px;
+  height: 60px;
+  flex-shrink: 0;
+}
+.div2 {
+  filter: blur(2px);
+}
+.div2,
+.div3,
+.spo2 {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  line-height: 130%;
+}
+.spo2 {
+  top: 39px;
+  left: 0;
+  font-size: var(--font-size-base);
+  font-family: var(--font-determination-mono);
+}
+.group {
+  position: relative;
+  width: 39px;
+  height: 60px;
+  flex-shrink: 0;
+}
+.groupParent {
+  position: absolute;
+  top: 249px;
+  left: 139px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.groupInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 406px;
+  height: 30px;
+}
+.pulseRate1 {
+  position: relative;
+  line-height: 119.9%;
+}
+.nounLoading4097731Icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.pulseRateInner,
+.pulseRateParent {
+  position: absolute;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pulseRateParent {
+  top: 3px;
+  left: 20px;
+  flex-direction: row;
+  gap: var(--gap-sm);
+  text-align: left;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-determination-mono);
+}
+.pulseRateInner {
+  top: 0;
+  left: 0;
+  flex-direction: column;
+}
+.pulseRate {
+  position: relative;
+  width: 406px;
+  height: 326px;
+  flex-shrink: 0;
+}
+.groupChild1,
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 406px;
+}
+.rectangleDiv {
+  border: 1px solid var(--color-mediumslateblue);
+  box-sizing: border-box;
+  height: 299px;
+}
+.groupChild1 {
+  background-color: var(--color-slateblue);
+  height: 30px;
+}
+.bodyTemperatureParent,
+.container,
+.frameDiv {
+  position: absolute;
+  top: 3px;
+  left: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.container,
+.frameDiv {
+  top: 22px;
+  left: 0;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.frameDiv {
+  top: 222px;
+  left: 54px;
+  flex-direction: row;
+  gap: var(--gap-md);
+}
+.frameParent,
+.groupIcon {
+  position: absolute;
+  top: 0;
+  left: 34.05px;
+  width: 201px;
+  height: 214px;
+}
+.frameParent {
+  top: 45px;
+  left: 153px;
+  width: 235.05px;
+  height: 241px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-digital-counter-7);
+}
+.silkThermalImagingThermograIcon {
+  position: absolute;
+  top: 60px;
+  left: 20px;
+  width: 118px;
+  height: 209px;
+  object-fit: cover;
+}
+.rectangleGroup {
+  position: relative;
+  width: 406px;
+  height: 299px;
+  flex-shrink: 0;
+}
+.theNormalBody {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 140%;
+  display: inline-block;
+  width: 403px;
+}
+.theNormalBodyTemperatureOfWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 403px;
+  height: 88px;
+}
+.groupWrapper {
+  position: relative;
+  width: 403px;
+  height: 66px;
+  flex-shrink: 0;
+  font-size: var(--font-size-base);
+  color: var(--color-gray);
+}
+.bodyTemperatureInner,
+.groupContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.groupContainer {
+  gap: var(--gap-sm);
+}
+.bodyTemperatureInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 407px;
+}
+.bodyTemperature {
+  position: relative;
+  width: 406px;
+  height: 407px;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-determination-mono);
+}
+.leftComponents {
+  position: absolute;
+  top: 105px;
+  left: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.groupChild2 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  filter: blur(2px);
+}
+.groupChild2,
+.groupChild3,
+.rectangleContainer {
+  position: absolute;
+  width: 4px;
+  height: 16px;
+}
+.groupChild3 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+}
+.rectangleContainer {
+  top: 880px;
+  left: 94px;
+}
+.closeIcon,
+.sys {
+  position: absolute;
+}
+.closeIcon {
+  top: 5px;
+  left: 1370px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.sys {
+  top: 36px;
+  left: 15px;
+  font-size: var(--font-size-base);
+  line-height: 130%;
+  font-family: var(--font-determination-mono);
+  text-align: center;
+}
+.parent1 {
+  position: relative;
+  width: 51px;
+  height: 57px;
+  flex-shrink: 0;
+}
+.dia {
+  position: absolute;
+  top: 36px;
+  left: 2px;
+  font-size: var(--font-size-base);
+  line-height: 130%;
+  font-family: var(--font-determination-mono);
+}
+.groupDiv {
+  position: relative;
+  width: 34px;
+  height: 57px;
+  flex-shrink: 0;
+  text-align: center;
+}
+.frameGroup {
+  position: absolute;
+  top: 140px;
+  left: 139px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 30px;
+}
+.groupChild4,
+.rectangleParent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 406px;
+  height: 310px;
+}
+.rectangleParent1 {
+  font-size: var(--font-size-lg);
+  font-family: var(--font-determination-mono);
+}
+.bloodPressureChild {
+  position: absolute;
+  top: 30px;
+  left: 61px;
+  width: 283.65px;
+  height: 279.95px;
+}
+.bloodPressureInner,
+.bloodPressureItem {
+  position: absolute;
+  top: 206px;
+  left: 165px;
+  width: 6px;
+  height: 6px;
+}
+.bloodPressureInner {
+  left: 233px;
+}
+.bloodPressure {
+  position: relative;
+  width: 406px;
+  height: 310px;
+  flex-shrink: 0;
+}
+.rectangleParent2 {
+  position: absolute;
+  top: 47px;
+  left: 301px;
+  width: 4px;
+  height: 16px;
+}
+.theRespirationRateIsTheNuParent {
+  position: absolute;
+  top: 283px;
+  left: 0;
+  width: 403px;
+  height: 66px;
+  color: var(--color-gray);
+}
+.groupChild8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 1px solid var(--color-mediumslateblue);
+  box-sizing: border-box;
+  width: 406px;
+  height: 263px;
+}
+.alveoliWeb824x549RemovebgPIcon {
+  position: absolute;
+  top: 50px;
+  left: 258px;
+  width: 128px;
+  height: 193px;
+  object-fit: cover;
+}
+.rectangleParent3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 406px;
+  height: 263px;
+  font-size: var(--font-size-lg);
+}
+.parent2,
+.parent3 {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.parent3 {
+  top: 146px;
+  left: 44px;
+  flex-direction: row;
+}
+.frameContainer,
+.groupChild10 {
+  position: absolute;
+  top: 0;
+  left: 24px;
+  width: 187px;
+  height: 138px;
+}
+.frameContainer {
+  left: 0;
+  width: 211px;
+  height: 165px;
+}
+.groupChild11 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-limegreen);
+  filter: blur(2px);
+}
+.groupChild11,
+.groupChild12,
+.rectangleParent4 {
+  position: absolute;
+  width: 5px;
+  height: 35px;
+}
+.groupChild12 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-limegreen);
+}
+.rectangleParent4 {
+  top: 102px;
+  left: 45px;
+}
+.groupChild13 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-limegreen);
+  filter: blur(2px);
+}
+.groupChild13,
+.groupChild14,
+.rectangleParent5 {
+  position: absolute;
+  width: 5px;
+  height: 47px;
+}
+.groupChild14 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-limegreen);
+}
+.rectangleParent5 {
+  top: 90px;
+  left: 76px;
+}
+.groupChild15 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-limegreen);
+  filter: blur(2px);
+}
+.groupChild15,
+.groupChild16,
+.rectangleParent6 {
+  position: absolute;
+  width: 5px;
+  height: 58px;
+}
+.groupChild16 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-limegreen);
+}
+.rectangleParent6 {
+  top: 79px;
+  left: 103px;
+}
+.groupChild17 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-limegreen);
+  filter: blur(2px);
+}
+.groupChild17,
+.groupChild18,
+.rectangleParent7 {
+  position: absolute;
+  width: 5px;
+  height: 85px;
+}
+.groupChild18 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-limegreen);
+}
+.rectangleParent7 {
+  top: 52px;
+  left: 133px;
+}
+.groupChild19 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-firebrick);
+  filter: blur(2px);
+}
+.groupChild19,
+.groupChild20,
+.rectangleParent8 {
+  position: absolute;
+  width: 5px;
+  height: 20px;
+}
+.groupChild20 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-firebrick);
+}
+.rectangleParent8 {
+  top: 117px;
+  left: 161px;
+}
+.groupChild21 {
+  filter: blur(2px);
+}
+.groupChild21,
+.groupChild22 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-limegreen);
+  width: 5px;
+  height: 95px;
+}
+.groupParent1,
+.rectangleParent9 {
+  position: absolute;
+  top: 42px;
+  left: 189px;
+  width: 5px;
+  height: 95px;
+}
+.groupParent1 {
+  top: 80px;
+  left: 20px;
+  width: 211px;
+  height: 165px;
+  font-family: var(--font-digital-counter-7);
+}
+.breathingRate {
+  position: relative;
+  width: 406px;
+  height: 349px;
+  flex-shrink: 0;
+  font-size: var(--font-size-base);
+  font-family: var(--font-determination-mono);
+}
+.rightComponents {
+  position: absolute;
+  top: 105px;
+  left: 1004px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+  text-align: left;
+}
+.lungInfectionIcon {
+  position: absolute;
+  top: 285px;
+  left: 727px;
+  width: 38px;
+  height: 38px;
+}
+.healthScanningSystem {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+}
+.wwwnickelfoxcom {
+  position: absolute;
+  top: 1211px;
+  left: 1424px;
+  font-family: var(--font-didact-gothic);
+  text-align: left;
+}
+.digitalHealthScanningSystem {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1280px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-digital-counter-7);
+}

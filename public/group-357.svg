@@ -1,0 +1,20 @@
+<svg width="202" height="214" viewBox="0 0 202 214" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="0.0546875" y1="185.5" x2="201.055" y2="185.5" stroke="#143DA7" stroke-opacity="0.4"/>
+<line x1="0.0546875" y1="147.5" x2="201.055" y2="147.5" stroke="#143DA7" stroke-opacity="0.4"/>
+<line x1="0.0546875" y1="109.5" x2="201.055" y2="109.5" stroke="#143DA7" stroke-opacity="0.4"/>
+<line x1="0.0546875" y1="71.5" x2="201.055" y2="71.5" stroke="#143DA7" stroke-opacity="0.4"/>
+<line x1="0.0546875" y1="33.5" x2="201.055" y2="33.5" stroke="#143DA7" stroke-opacity="0.4"/>
+<line x1="0.554688" y1="2.18557e-08" x2="0.554678" y2="214" stroke="#143DA7"/>
+<line x1="0.0546875" y1="213.5" x2="201.055" y2="213.5" stroke="#143DA7"/>
+<g filter="url(#filter0_f_2_201)">
+<path d="M15.0547 125C15.0547 125 36.4834 162.068 60.0547 169.5C107.958 184.603 96.7442 47.3082 141.555 69.9996C164.457 81.5969 177.555 125 177.555 125" stroke="#0FCB22" stroke-width="2"/>
+</g>
+<path d="M15.0547 125C15.0547 125 36.4834 162.068 60.0547 169.5C107.958 184.603 96.7442 47.3082 141.555 69.9996C164.457 81.5969 177.555 125 177.555 125" stroke="#0FCB22" stroke-width="2"/>
+<defs>
+<filter id="filter0_f_2_201" x="0.189362" y="52.4607" width="192.322" height="133.203" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="7" result="effect1_foregroundBlur_2_201"/>
+</filter>
+</defs>
+</svg>
